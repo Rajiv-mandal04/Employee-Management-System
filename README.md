@@ -1,4 +1,3 @@
 # Employee management System
-Advanture website is the best way to find a treking places , Mountain-climbing places, and upcoming tours update. This website is fully responsive you can check in mobile mode and this thing happen with using HTML & CSS.
-![image alt](https://github.com/Rajiv-mandal04/Responsive-Advanture-website/blob/41a3b6a1c29da87bc796c234149d781f538c7217/Screenshot%202025-04-24%20025408.png)
-![image alt]()
+EMS is the fully function system. it is the feature of save, delete , update, clear and search through given button by filling form and everything will be store in database . it's happen using php .
+![image alt](https://github.com/Rajiv-mandal04/Employee-Management-System/blob/main/Screenshot%202025-07-23%20230149.png)
